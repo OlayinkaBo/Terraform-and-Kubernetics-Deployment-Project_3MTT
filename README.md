@@ -794,7 +794,7 @@ spec:
 
 ![alt text](<Images/updated kubernetics manifest2.png>)
 
-**Sock_shoo.yml playbook**
+**Sock_shop.yml playbook**
 
 ```
 ---
